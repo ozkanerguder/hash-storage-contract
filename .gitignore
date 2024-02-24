@@ -1,0 +1,22 @@
+#hardhat
+/artifacts
+/cache
+hardhat.config.js
+
+#images
+/img
+
+# local env files
+.env
+
+#modules
+/node_modules
+
+#draft
+/test
+metamaskbutton.txt
+missions.txt
+
+#package
+/package-lock.json
+
